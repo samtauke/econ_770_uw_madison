@@ -1,4 +1,6 @@
-# ECON 770 UW MADSION
+# ECON 770 UW MADISON
 
 
 ### A Sub header
+
+This is some **details**
